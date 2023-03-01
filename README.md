@@ -1,5 +1,4 @@
 # Customer-Marketing-segmentation-with-Machine-Learning
-Use unsupervised machine learning tools to segment credit card customers
 
 In this project, the objective is to segment a portfolio of credit card users according to usage characteristics. Customer segmentation is then used by marketing department to tailor products and services specific to these customer segments. 
 # Dataset
